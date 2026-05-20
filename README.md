@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **B.Tech CSE graduate from Parul University** 🎓
+I'm a **B.Tech CSE student from Parul University** 🎓
 passionate about building scalable infrastructure and automating
 everything with modern DevOps practices.
 
