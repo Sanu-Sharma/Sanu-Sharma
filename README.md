@@ -15,7 +15,7 @@ passionate about building scalable infrastructure and automating
 everything with modern DevOps practices.
 
 - 🔭 Currently working on **AWS & DevOps Projects**
-- 💼 Former **Cloud Computing Intern @ Wipro**
+- 💼 Former **Cloud Computing Intern @ Extech Digital**
 - 🌱 Deepening skills in **Terraform, CI/CD & Cloud Architecture**
 - 💬 Ask me about **AWS, Docker, Kubernetes, DevOps**
 - ⚡ Fun fact: If it can be automated, I'll automate it 😄
