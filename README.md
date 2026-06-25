@@ -44,7 +44,7 @@ everything with modern DevOps practices.
 
 ## 💼 Experience
 
-**Cloud Computing Intern — Wipro**
+**Cloud Computing Intern — Extech Digital**
 - Hands-on experience with cloud infrastructure & deployment
 - Worked on real-world cloud solutions
 
